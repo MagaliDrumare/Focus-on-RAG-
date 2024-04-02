@@ -80,7 +80,8 @@ url
 ### Video 1 
 
 
-### Course 1 
+### Advanced Retrieval for AI with Chroma
+https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/?utm_campaign=chroma-launch&utm_content=287948962&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456
 
 
 ### Course 2 
