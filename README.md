@@ -1,6 +1,6 @@
-# AI_newsletter_DATE
+# AI_newsletter_01.04
 
-# Generative AI & AI _newsletter_DATE 
+# Generative AI & AI _newsletter_01.04
 
 ## 🎬 Newsletter_DATE video 
 made with https://aiapp-fr.vidnoz.com/
@@ -28,19 +28,15 @@ url
 - 
 
 
-## 🎯 Focus n°1 
+## 🎯 Focus ON RAG (Retrieval Augmented Generation)
 
-### Item 1 
+### Introduction au RAG (Retrieval Augmented Generation)
+Trouver un équilibre entre l’exploitation des capacités du langage LLM et le respect de la confidentialité et de la sécurité des données d’entreprise est donc primordial pour une intégration réussie. Et c’est souvent ici qu’intervient le RAG !
+https://datacorner.fr/rag/?trk=public_post-text
 
-TEXT 
-
-url 
-
-### Item 2 
-
-TEXT 
-
-url 
+### Premiers pas vers un RAG en augmentant un LLM avec un fichier pdf (en 5 mins chrono)
+Dans cet article nous n’allons pas faire du fine tuning de notre LLM. A la place nous allons utiliser la technique de détection de similarité qui va s’appuyer sur des données extérieures au LLM. D’où le titre de cet article qui indique que nous allons nous lancer progressivement vers le RAG (RAG (Retrieval Augmented Generation). Car c’est finalement ça le RAG: un moyen de mieux contextualiser un LLM avec des données pour lesquelles il n’a pas été entrainé.
+https://datacorner.fr/llm-pdf-simil/
 
 ### Item 3 
 
