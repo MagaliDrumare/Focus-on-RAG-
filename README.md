@@ -46,7 +46,7 @@ https://youtu.be/LaO8OrII3t4?feature=shared
 I want a LLM that knows about my products, customers and services. Discover how to build that knowledge with your own documents in a chatbot experience. Follow the quickstart and ask questions to discover that Julian Forero, Dash Desai and myself have been testing bikes!
 https://quickstarts.snowflake.com/guide/asking_questions_to_your_own_documents_with_snowflake_cortex/index.html?index=..%2F..index#4
 
-### Gradio app with Mistral AI 
+### RAG Gradio app with Mistral AI 
 he level of abstraction and complexity you can achieve in coding today, provided you know how to leverage the right tools, is amazing! 🚀 
 With  <30 lines of code, I've created a basic RAG app capable of performing Q&A on any PDF by leveraging Gradio, LlamaIndex, and Mistral AI 
 https://github.com/fcastanedo/llamaindex_gradio_example
