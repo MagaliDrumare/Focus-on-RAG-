@@ -46,6 +46,11 @@ https://youtu.be/LaO8OrII3t4?feature=shared
 I want a LLM that knows about my products, customers and services. Discover how to build that knowledge with your own documents in a chatbot experience. Follow the quickstart and ask questions to discover that Julian Forero, Dash Desai and myself have been testing bikes!
 https://quickstarts.snowflake.com/guide/asking_questions_to_your_own_documents_with_snowflake_cortex/index.html?index=..%2F..index#4
 
+### Gradio app with Mistral AI 
+he level of abstraction and complexity you can achieve in coding today, provided you know how to leverage the right tools, is amazing! 🚀 
+With  <30 lines of code, I've created a basic RAG app capable of performing Q&A on any PDF by leveraging Gradio, LlamaIndex, and Mistral AI 
+https://github.com/fcastanedo/llamaindex_gradio_example
+
 ### How Einstein Copilot Search Uses Retrieval Augmented Generation to Make AI More Trusted and Relevant
 At World Tour NYC, Salesforce introduced new unstructured data capabilities for Data Cloud and Einstein Copilot Search. By bringing together data retrieval capabilities using semantic search and prompts in Einstein Copilot, responses by Large Language Models (LLMs) will be more accurate, up-to-date, and generated with more transparency — while also keeping company data safe and secure through the Einstein Trust Layer.
 https://www.salesforce.com/news/stories/retrieval-augmented-generation-explained/
@@ -53,25 +58,18 @@ https://www.salesforce.com/news/stories/retrieval-augmented-generation-explained
 
 ## 🎯 Focus on Generative Arts 
 
-### Item 1 
+### Adbobe Firefly 
+From doodle to digital -> With Structure Reference now in #AdobeFirefly, you can utilize the Structure option to upload your own reference image, then customize endless variations from the same layout. Check it out now: http://adobe.ly/3TPXT42
+- https://firefly.adobe.com/ 
 
-TEXT 
-
-url 
-
-
-### Item 2 
-
-TEXT 
-
-url 
+### Adobe Genstudio 
+Adobe GenStudio, coming soon, is an intuitive product that collects the top tools marketers need to deliver on cross-channel campaigns. Built on generative AI, it empowers any team member to quickly find and generate assets, create variations, and optimize experiences based on real-time content performance insights. It’s built for small businesses to large enterprises and designed to be used by marketers or agencies.
+https://business.adobe.com/products/genstudio.html
 
 
-### Item 3 
-
-TEXT 
-
-url 
+### V3D is a method that harnesses the power of pre-trained video diffusion models to generate detailed 3D objects and scenes from a single image
+V3D is a method that harnesses the power of pre-trained video diffusion models to generate detailed 3D objects and scenes from a single image
+https://x.com/Gradio/status/1769706587759788384?s=20
 
 
 ## 📖 AI Learning / Courses 
