@@ -47,7 +47,9 @@ https://youtu.be/LaO8OrII3t4?feature=shared
 At World Tour NYC, Salesforce introduced new unstructured data capabilities for Data Cloud and Einstein Copilot Search. By bringing together data retrieval capabilities using semantic search and prompts in Einstein Copilot, responses by Large Language Models (LLMs) will be more accurate, up-to-date, and generated with more transparency — while also keeping company data safe and secure through the Einstein Trust Layer.
 https://www.salesforce.com/news/stories/retrieval-augmented-generation-explained/
 
-### Item 3 
+### Streamlit and Snowflake to build a RAG chatbot 
+I want a LLM that knows about my products, customers and services. Discover how to build that knowledge with your own documents in a chatbot experience. Follow the quickstart and ask questions to discover that Julian Forero, Dash Desai and myself have been testing bikes!
+https://quickstarts.snowflake.com/guide/asking_questions_to_your_own_documents_with_snowflake_cortex/index.html?index=..%2F..index#4
 
 TEXT 
 
