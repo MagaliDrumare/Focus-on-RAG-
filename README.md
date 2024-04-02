@@ -58,7 +58,7 @@ https://www.salesforce.com/news/stories/retrieval-augmented-generation-explained
 
 ## 🎯 Focus on Generative Arts 
 
-### Adbobe Firefly 
+### Adobe Firefly 
 From doodle to digital -> With Structure Reference now in #AdobeFirefly, you can utilize the Structure option to upload your own reference image, then customize endless variations from the same layout. Check it out now: http://adobe.ly/3TPXT42
 - https://firefly.adobe.com/ 
 
