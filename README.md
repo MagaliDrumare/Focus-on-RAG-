@@ -84,5 +84,6 @@ url
 https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai
 
 
-### Course 2 
+### Microsoft releases 18 courses for learning generative AI
+https://microsoft.github.io/generative-ai-for-beginners/#/
 
