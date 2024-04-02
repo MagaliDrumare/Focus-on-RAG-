@@ -28,7 +28,7 @@ url
 - 
 
 
-## 🎯 Focus ON RAG (Retrieval Augmented Generation)
+## 🎯 Focus on RAG (Retrieval Augmented Generation)
 
 ### Introduction au RAG (Retrieval Augmented Generation)
 Trouver un équilibre entre l’exploitation des capacités du langage LLM et le respect de la confidentialité et de la sécurité des données d’entreprise est donc primordial pour une intégration réussie. Et c’est souvent ici qu’intervient le RAG !
