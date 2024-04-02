@@ -41,7 +41,7 @@ https://datacorner.fr/llm-pdf-simil/
 ### Cohere's Command-R a Strong New Model for RAG
 Introducing Command-R, Cohere's powerful generative AI model designed for enterprise-scale applications. Excelling at retrieval augmented generation and Tool Use, Command-R enables businesses to deploy AI solutions that leverage private knowledge and automate complex tasks across 10 major languages.
 https://youtu.be/LaO8OrII3t4?feature=shared
-Try Command-R in Coral : https://coral.cohere.com/
+- Try Command-R in Coral : https://coral.cohere.com/
 
 
 ### Item 3 
