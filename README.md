@@ -43,6 +43,9 @@ Introducing Command-R, Cohere's powerful generative AI model designed for enterp
 https://youtu.be/LaO8OrII3t4?feature=shared
 - Try Command-R in Coral : https://coral.cohere.com/
 
+### How Einstein Copilot Search Uses Retrieval Augmented Generation to Make AI More Trusted and Relevant
+At World Tour NYC, Salesforce introduced new unstructured data capabilities for Data Cloud and Einstein Copilot Search. By bringing together data retrieval capabilities using semantic search and prompts in Einstein Copilot, responses by Large Language Models (LLMs) will be more accurate, up-to-date, and generated with more transparency — while also keeping company data safe and secure through the Einstein Trust Layer.
+https://www.salesforce.com/news/stories/retrieval-augmented-generation-explained/
 
 ### Item 3 
 
