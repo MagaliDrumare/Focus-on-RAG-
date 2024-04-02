@@ -77,7 +77,8 @@ url
 
 ## 📖 AI Learning / Courses 
 
-### Video 1 
+### Making AI accessible with Andrej Karpathy and Stephanie Zhan
+https://youtu.be/c3b-JASoPi0?si=t3tWDxFbOaVl1NCN
 
 
 ### Advanced Retrieval for AI with Chroma
