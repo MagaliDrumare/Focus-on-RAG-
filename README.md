@@ -11,9 +11,9 @@ made with https://aiapp-fr.vidnoz.com/
 ## 🚀  AI News 
 
 ### News Focus 
-More than 8 out of 10 decision-makers questioned express their desire to strengthen the use of Open Source models, such as Llama or Mistral or Databricks 
+- More than 8 out of 10 decision-makers questioned express their desire to strengthen the use of Open Source models, such as Llama or Mistral or Databricks 
 https://www.cio-online.com/actualites/lire-ia-generative-davantage-de-modeles-et-davantage-d-open-source-15556.html
--DBRX: A New State-of-the-Art Open LLM created by Databricks
+- DBRX: A New State-of-the-Art Open LLM created by Databricks
 DBRX provides the open community and enterprises building their own LLMs with capabilities that were previously limited to closed model APIs; according to our measurements, it surpasses GPT-3.5, and it is competitive with Gemini 1.0 Pro. It is an especially capable code model, surpassing specialized models like CodeLLaMA-70B
 https://huggingface.co/databricks/dbrx-instruct  
 
