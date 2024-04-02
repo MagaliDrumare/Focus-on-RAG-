@@ -74,7 +74,6 @@ TEXT
 url 
 
 
-
 ## 📖 AI Learning / Courses 
 
 ### Making AI accessible with Andrej Karpathy and Stephanie Zhan
