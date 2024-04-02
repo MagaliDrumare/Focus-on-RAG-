@@ -41,7 +41,7 @@ https://datacorner.fr/llm-pdf-simil/
 ### Cohere's Command-R a Strong New Model for RAG
 Introducing Command-R, Cohere's powerful generative AI model designed for enterprise-scale applications. Excelling at retrieval augmented generation and Tool Use, Command-R enables businesses to deploy AI solutions that leverage private knowledge and automate complex tasks across 10 major languages.
 https://youtu.be/LaO8OrII3t4?feature=shared
-- Try Command-R in Coral : https://coral.cohere.com/
+- Try Command-R in Coral (free) : https://coral.cohere.com/
 
 ### How Einstein Copilot Search Uses Retrieval Augmented Generation to Make AI More Trusted and Relevant
 At World Tour NYC, Salesforce introduced new unstructured data capabilities for Data Cloud and Einstein Copilot Search. By bringing together data retrieval capabilities using semantic search and prompts in Einstein Copilot, responses by Large Language Models (LLMs) will be more accurate, up-to-date, and generated with more transparency — while also keeping company data safe and secure through the Einstein Trust Layer.
