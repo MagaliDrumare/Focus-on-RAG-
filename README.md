@@ -18,13 +18,11 @@ DBRX provides the open community and enterprises building their own LLMs with ca
 https://huggingface.co/databricks/dbrx-instruct  
 
 ### AI developments this week :
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+-  Stargate aims to build a massive $100 billion supercomputer to power future OpenAI Models. Sam Altman believes compute will be the most important currency of the future https://youtu.be/JtAOaYdM27M?feature=shared
+- OpenAI introduces Voice Engine, a cutting-edge model designed to generate highly realistic and emotive voices from just a 15-second audio sample https://youtu.be/CNZYftv21jU?feature=shared
+- Cohere Command R+, now available on Azure https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/announcing-cohere-command-r-now-available-on-azure/ba-p/4103512
+- Our latest Command R model family is now available on Amazon SageMaker https://www.linkedin.com/posts/cohere-ai_our-latest-command-r-model-family-is-now-activity-7182033232480124930-f5xs?utm_source=share&utm_medium=member_ios
+- Stability AI CEO resigns because you’re ‘not going to beat centralized AI with more centralized AI’ https://techcrunch.com/2024/03/22/stability-ai-ceo-resigns-because-youre-not-going-to-beat-centralized-ai-with-more-centralized-ai
 
 
 ## 🎯 Focus on RAG (Retrieval Augmented Generation)
