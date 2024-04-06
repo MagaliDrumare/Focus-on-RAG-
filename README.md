@@ -10,7 +10,7 @@ made with https://aiapp-fr.vidnoz.com/
 
 ## 🚀  AI News 
 
-### News Focus 
+### Will open source models are the future of Generative AI? 
 - More than 8 out of 10 decision-makers questioned express their desire to strengthen the use of Open Source models, such as Llama or Mistral or Databricks 
 https://www.cio-online.com/actualites/lire-ia-generative-davantage-de-modeles-et-davantage-d-open-source-15556.html
 - DBRX: A New State-of-the-Art Open LLM created by Databricks
