@@ -1,5 +1,3 @@
-# AI_newsletter_01.04
-
 # Generative AI & AI _newsletter_01.04
 
 ## 🎬 Newsletter_01.04 video 
