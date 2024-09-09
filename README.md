@@ -2,7 +2,7 @@
 ## 🎬 Newsletter_01.04 video 
 made with https://aiapp-fr.vidnoz.com/ 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pOikckudOow/0.jpg)](https://www.youtube.com/watch?v=pOikckudOow)
+![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pOikckudOow/0.jpg)](https://www.youtube.com/watch?v=pOikckudOow)
 
 
 ## 🚀  AI News 
