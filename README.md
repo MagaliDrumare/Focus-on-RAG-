@@ -1,26 +1,3 @@
-
-## 🎬 Newsletter_01.04 video 
-made with https://aiapp-fr.vidnoz.com/ 
-- https://www.youtube.com/watch?v=pOikckudOow
-
-
-## 🚀  AI News 
-
-### Will open source models are the future of Generative AI? 
-- More than 8 out of 10 decision-makers questioned express their desire to strengthen the use of Open Source models, such as Llama or Mistral or Databricks 
-https://www.cio-online.com/actualites/lire-ia-generative-davantage-de-modeles-et-davantage-d-open-source-15556.html
-- DBRX: A New State-of-the-Art Open LLM created by Databricks
-DBRX provides the open community and enterprises building their own LLMs with capabilities that were previously limited to closed model APIs; according to our measurements, it surpasses GPT-3.5, and it is competitive with Gemini 1.0 Pro. It is an especially capable code model, surpassing specialized models like CodeLLaMA-70B
-https://huggingface.co/databricks/dbrx-instruct  
-
-### AI developments this week :
--  Stargate aims to build a massive $100 billion supercomputer to power future OpenAI Models. Sam Altman believes compute will be the most important currency of the future https://youtu.be/JtAOaYdM27M?feature=shared
-- OpenAI introduces Voice Engine, a cutting-edge model designed to generate highly realistic and emotive voices from just a 15-second audio sample https://youtu.be/CNZYftv21jU?feature=shared
-- Cohere Command R+, now available on Azure https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/announcing-cohere-command-r-now-available-on-azure/ba-p/4103512
-- Our latest Command R model family is now available on Amazon SageMaker https://www.linkedin.com/posts/cohere-ai_our-latest-command-r-model-family-is-now-activity-7182033232480124930-f5xs?utm_source=share&utm_medium=member_ios
-- Stability AI CEO resigns because you’re ‘not going to beat centralized AI with more centralized AI’ https://techcrunch.com/2024/03/22/stability-ai-ceo-resigns-because-youre-not-going-to-beat-centralized-ai-with-more-centralized-ai
-
-
 ## 🎯 Focus on RAG (Retrieval Augmented Generation)
 
 ### Introduction au RAG (Retrieval Augmented Generation)
@@ -48,34 +25,4 @@ https://github.com/fcastanedo/llamaindex_gradio_example
 ### How Einstein Copilot Search Uses Retrieval Augmented Generation to Make AI More Trusted and Relevant
 At World Tour NYC, Salesforce introduced new unstructured data capabilities for Data Cloud and Einstein Copilot Search. By bringing together data retrieval capabilities using semantic search and prompts in Einstein Copilot, responses by Large Language Models (LLMs) will be more accurate, up-to-date, and generated with more transparency — while also keeping company data safe and secure through the Einstein Trust Layer.
 https://www.salesforce.com/news/stories/retrieval-augmented-generation-explained/
-
-
-## 🎯 Focus on Generative Arts 
-
-### Adobe Firefly 
-From doodle to digital -> With Structure Reference now in #AdobeFirefly, you can utilize the Structure option to upload your own reference image, then customize endless variations from the same layout. Check it out now: http://adobe.ly/3TPXT42
-- https://firefly.adobe.com/ 
-
-### Adobe Genstudio 
-Adobe GenStudio, coming soon, is an intuitive product that collects the top tools marketers need to deliver on cross-channel campaigns. Built on generative AI, it empowers any team member to quickly find and generate assets, create variations, and optimize experiences based on real-time content performance insights. It’s built for small businesses to large enterprises and designed to be used by marketers or agencies.
-https://business.adobe.com/products/genstudio.html
-
-
-### V3D is a method that harnesses the power of pre-trained video diffusion models to generate detailed 3D objects and scenes from a single image
-V3D is a method that harnesses the power of pre-trained video diffusion models to generate detailed 3D objects and scenes from a single image
-https://x.com/Gradio/status/1769706587759788384?s=20
-
-
-## 📖 AI Learning / Courses 
-
-### Making AI accessible with Andrej Karpathy and Stephanie Zhan
-https://youtu.be/c3b-JASoPi0?si=t3tWDxFbOaVl1NCN
-
-
-### Advanced Retrieval for AI with Chroma
-https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai
-
-
-### Microsoft releases 18 courses for learning generative AI
-https://microsoft.github.io/generative-ai-for-beginners/#/
 
